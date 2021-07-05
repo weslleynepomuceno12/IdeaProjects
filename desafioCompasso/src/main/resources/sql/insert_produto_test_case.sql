@@ -1,0 +1,1 @@
+INSERT IGNORE INTO `desafio_compasso`(`id`, `description`, `name`, `price`) VALUES (999,'DESCRIPTION NUNIT','NAME NUNIT',99.99);

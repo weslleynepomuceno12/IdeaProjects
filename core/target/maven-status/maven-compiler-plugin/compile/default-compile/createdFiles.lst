@@ -1,0 +1,11 @@
+br\com\desafiocompasso\core\model\DesafioCompasso.class
+br\com\desafiocompasso\exception\DesafioCompassoExceptionNotFound.class
+br\com\desafiocompasso\exception\DesafioCompassoException.class
+br\com\desafiocompasso\core\model\AbstractEntity.class
+br\com\desafiocompasso\core\util\Assert.class
+br\com\desafiocompasso\core\util\MessageEnum.class
+br\com\desafiocompasso\exception\DesafioCompassoExceptionDetails$Builder.class
+br\com\desafiocompasso\exception\DesafioCompassoExceptionHandler.class
+br\com\desafiocompasso\core\model\DesafioCompasso$DesafioCompassoBuilder.class
+br\com\desafiocompasso\core\repository\DesafioCompassoRepository.class
+br\com\desafiocompasso\exception\DesafioCompassoExceptionDetails.class
